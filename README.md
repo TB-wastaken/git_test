@@ -1,1 +1,1 @@
-This is tariq's first git project
+This is Tariq's first git project
